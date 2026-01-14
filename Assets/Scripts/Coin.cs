@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class Coin : MonoBehaviour
 {
-    // Start is called before the first frame update
+    [SerializeField] GameObject _coinPrefab;
+    [SerializeField] Transform _transform;
+    private float coord = 5;
     void Start()
     {
         
