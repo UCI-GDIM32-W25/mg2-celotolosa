@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7qg5CCgx)
 # HW2
 ## Devlog
-Write your Devlog here!
+The plan in my MG2 break-down activity connects to my code as I used the classes that we worked on. Including the Player, Coin, GameController, and CoinSpawner.
 
 
 ## Open-Source Assets
